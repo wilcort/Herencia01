@@ -25,6 +25,8 @@ namespace Herencia01
         {
             //base.conducir();
             Console.WriteLine("Surcando los cielos ");
+            Console.WriteLine("Surcando los cielos de america ");
+            Console.WriteLine("Surcando los cielos de america ");
 
         }
     }
